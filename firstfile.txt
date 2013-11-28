@@ -1,2 +1,3 @@
 Hello this is my first file
 add first line in branch A
+add line in branch B
